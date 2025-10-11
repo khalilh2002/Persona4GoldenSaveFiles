@@ -311,3 +311,4 @@ Mise à jour du README - 2025-10-07 #1
 Mise à jour du README - 2025-10-09 #1
 Mise à jour du README - 2025-10-11 #1
 Mise à jour du README - 2025-10-11 #2
+Mise à jour du README - 2025-10-11 #3
