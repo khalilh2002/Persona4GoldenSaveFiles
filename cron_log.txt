@@ -16,6 +16,7 @@ Script exécuté à Sun May 25 02:00:05 AM +01 2025
 Script exécuté à Mon May 26 01:00:03 AM +01 2025
 Script exécuté à Mon May 26 03:00:03 AM +01 2025
 Script exécuté à Mon May 26 09:00:03 AM +01 2025
+<<<<<<< HEAD
 Script exécuté à Tue May 27 05:00:04 AM +01 2025
 Script exécuté à Tue May 27 06:00:03 AM +01 2025
 Script exécuté à Wed May 28 03:00:06 AM +01 2025
@@ -474,3 +475,5 @@ Error: Commit failed at Mon Nov 10 12:00:01 PM +01 2025
 Error: Commit failed at Sat Dec 20 02:24:49 AM +01 2025
 Error: Commit failed at Sat Dec 20 02:25:20 AM +01 2025
 Error: Commit failed at Sat Dec 20 02:25:42 AM +01 2025
+=======
+>>>>>>> 79c88732c3d0c47362608551379821f8b6f572c3

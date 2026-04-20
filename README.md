@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 up
 Mise à jour du README - 2025-05-27 #1
 Mise à jour du README - 2025-05-27 #2
@@ -457,3 +458,6 @@ Mise à jour du README - 2025-11-10 #1
 Mise à jour du README - 2025-12-20 #1
 Mise à jour du README - 2025-12-20 #1
 Mise à jour du README - 2025-12-20 #1
+=======
+
+>>>>>>> 79c88732c3d0c47362608551379821f8b6f572c3
